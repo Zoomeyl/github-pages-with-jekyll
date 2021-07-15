@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Zoomey's TreeHouse"
 ---
 
 I'm glad you are here. I plan to talk about ...
